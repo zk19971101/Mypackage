@@ -1,0 +1,10 @@
+README.md
+setup.py
+mypackage/__init__.py
+mypackage/functions.py
+mypackage/greet.py
+zhang_mypackage.egg-info/PKG-INFO
+zhang_mypackage.egg-info/SOURCES.txt
+zhang_mypackage.egg-info/dependency_links.txt
+zhang_mypackage.egg-info/not-zip-safe
+zhang_mypackage.egg-info/top_level.txt
